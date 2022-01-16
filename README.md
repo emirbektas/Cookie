@@ -1,0 +1,2 @@
+# Cookie
+Animated cookie policy
